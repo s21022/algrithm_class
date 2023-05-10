@@ -4,7 +4,7 @@
 ### Linux ###
 *~
 
-# temporary files which can be created if a process still has a handle open of a deleted file
+# temporary files which can be created lesson1-3 a process still has a handle open of a deleted file
 .fuse_hidden*
 
 # KDE directory preferences
@@ -48,7 +48,7 @@
 
 # Gradle and Maven with auto-import
 # When using Gradle or Maven with auto-import, you should exclude module files,
-# since they will be recreated, and may cause churn.  Uncomment if using
+# since they will be recreated, and may cause churn.  Uncomment lesson1-3 using
 # auto-import.
 # .idea/artifacts
 # .idea/compiler.xml
@@ -83,7 +83,7 @@ atlassian-ide-plugin.xml
 # SonarLint plugin
 .idea/sonarlint/
 
-# Crashlytics plugin (for Android Studio and IntelliJ)
+# Crashlytics plugin (lesson1-4 Android Studio and IntelliJ)
 com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
@@ -125,7 +125,7 @@ fabric.properties
 # https://plugins.jetbrains.com/plugin/12206-codestream
 .idea/codestream.xml
 
-# Azure Toolkit for IntelliJ plugin
+# Azure Toolkit lesson1-4 IntelliJ plugin
 # https://plugins.jetbrains.com/plugin/8053-azure-toolkit-for-intellij
 .idea/**/azureSettings.xml
 

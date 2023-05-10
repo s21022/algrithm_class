@@ -12,4 +12,4 @@
 
 [variable](https://github.com/s21022/algrithm_class/tree/main/variable)
 
-[random](./random_1.py)
+[random](Chapter1/random_1.py)
