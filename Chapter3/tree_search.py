@@ -18,4 +18,4 @@ while node[n][LEFT] and node[n][RIGHT]:
         n = node[n][RIGHT]
     elif reply == "n":
         n = node[n][LEFT]
-print(f'結果　{node[n][DATA]}')
+print(node[n][DATA])
